@@ -1,0 +1,7 @@
+Below are the deployment links of this Project
+
+GitHub Pages- https://deepak8260.github.io/Questionnaire-Project-by-Kumar/
+
+Netlify - https://kumaraiquestionnaire.netlify.app/
+
+Versel - https://kumarai-questionnaire.vercel.app/
